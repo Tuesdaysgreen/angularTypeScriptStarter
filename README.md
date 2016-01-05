@@ -1,0 +1,1 @@
+Angular TypeScript starter solution using AMD and ASP.Net Web API references.
